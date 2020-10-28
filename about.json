@@ -1,6 +1,6 @@
 {
   "name": "DiscoTODO",
   "about_url": "",
-  "component": true
-  // "license_url": "https://github.com/discourse/DiscoTOC/blob/master/LICENSE"
+  "component": true,
+  "license": "https://github.com/Ahmedgagan/DiscoTODO/blob/master/LICENSE"
 }
