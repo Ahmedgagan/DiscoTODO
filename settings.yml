@@ -1,0 +1,16 @@
+minimum_trust_level_to_create_TODO:
+  default: 0
+  type: enum
+  choices:
+    - 1
+    - 2
+    - 3
+    - 4
+  description:
+    en: "The minimum trust level a user must have in order to see the TODO button in the composer"
+composer_todo_text:
+  default: "This topic will contain a TODO List"
+todo_icon:
+  default: "align-left"
+anchor_icon:
+  default: "hashtag"
